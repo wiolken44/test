@@ -1,8 +1,8 @@
 version: 2
 plan:
   project-key: PROJ
-  key: PLAN
-  name: My Plan
+  key: WSZ
+  name: wsz
 
 stages:
   - Stage 1:
